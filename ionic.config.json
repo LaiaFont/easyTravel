@@ -1,0 +1,7 @@
+{
+  "name": "Multiplataforma2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
